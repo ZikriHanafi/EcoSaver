@@ -18,7 +18,7 @@ locate nearby waste banks, track their recycling activities.
 
 - Flutter
 - Dart
-- Android Studio
+- Visual Studio Code
 
 ## Prerequisites
 
