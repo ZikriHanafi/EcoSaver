@@ -1,13 +1,16 @@
 ## About
 
 EcoSaver mobile application, 
-a comprehensive waste bank app. The app integrates features like 
+Ecosaver is a comprehensive waste bank app. The app integrates features like 
 Google Maps API, Firebase, and JavaScript. EcoSaver enables users to 
 locate nearby waste banks, track their recycling activities.
 
 <br>
 
 ## Preview
+
+![image](https://github.com/ZikriHanafi/EcoSaver/assets/95517450/c15e986c-75a9-4c73-858d-8c9cffdf519f)
+![image](https://github.com/ZikriHanafi/EcoSaver/assets/95517450/18cf25d6-dcc9-4537-9880-174e4aba2346)
 
 
 
@@ -73,5 +76,3 @@ Before you get started, follow these requirements
 - Firebase Database - https://pub.dev/packages/firebase_database
 - Cloud Firestore - https://pub.dev/packages/cloud_firestore
 - Cloud Storage - https://pub.dev/packages/firebase_storage
-
-## 🖼️ Project Gallery
